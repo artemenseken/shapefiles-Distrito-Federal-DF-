@@ -9,4 +9,6 @@ Consta neste projeto também arquivo R de como importar e fazer mapas com o Shap
 
 Espero que esse código e shapefile seja de grande revelia para seu estudo/pesquisa.
 
+Observação.: quando quiser salvar o mapa no seu computador com o código do R, use o comando x11(), abra-o em tela cheia e depois rode os comandos para plotagem do gráfico, assim, a legenda ficará no lado direito e não ficará sobre o gráfico.
+
 Arthur Canotilho
